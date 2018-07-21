@@ -1,0 +1,4 @@
+NotaFinal: 13	Nome: ANTÓNIO LEITÃO		N mec: 75492	NotaNormal: 13	NotaRecurso: 2
+NotaFinal: 12	Nome: MICAEL MARQUES GIL		N mec: 75440	NotaNormal: 12	NotaRecurso: 1
+NotaFinal: 11	Nome: JOSÉ DOMINGOS RAMOS REBELO DE AMARAL		N mec: 75427	NotaNormal: 11	NotaRecurso: 11
+NotaFinal: 10	Nome: ANDRÉ EMANUEL ROQUE SOARES		N mec: 75400	NotaNormal: 10	NotaRecurso: 10

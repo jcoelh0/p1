@@ -1,0 +1,4 @@
+NotaFinal: 20	Nome: ANTÓNIO LEITÃO		N mec: 75492	NotaNormal: 19	NotaRecurso: 20
+NotaFinal: 17	Nome: INÊS FILIPA DOS SANTOS OLIVEIRA		N mec: 75514	NotaNormal: 17	NotaRecurso: 5
+NotaFinal: 14	Nome: MICAEL MARQUES GIL		N mec: 75440	NotaNormal: 12	NotaRecurso: 14
+NotaFinal: 10	Nome: JOSÉ DOMINGOS RAMOS REBELO DE AMARAL		N mec: 75427	NotaNormal: 7	NotaRecurso: 10
